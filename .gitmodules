@@ -1,6 +1,6 @@
 [submodule "blog"]
 	path = blog
-	url = ./
+	url = https://github.com/cmavelis/jhipster-blog-MSA.git
 [submodule "store"]
 	path = store
-	url = ./
+	url = https://github.com/cmavelis/jhipster-store-MSA.git
