@@ -4,3 +4,6 @@
 [submodule "store"]
 	path = store
 	url = https://github.com/cmavelis/jhipster-store-MSA.git
+[submodule "jhipster-registry"]
+	path = jhipster-registry
+	url = https://github.com/jhipster/jhipster-registry.git
