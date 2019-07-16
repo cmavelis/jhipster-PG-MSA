@@ -1,0 +1,6 @@
+[submodule "blog"]
+	path = blog
+	url = ./
+[submodule "store"]
+	path = store
+	url = ./

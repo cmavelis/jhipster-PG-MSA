@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "blog",
+      "store"
+    ],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ZWM4ZjE3YjE0M2I2OWJiNjQ0NjliMWE2M2NjOTc4YmY5OTMwNzM0NTVmMThlNmE4NGZiYTdmNDUyZDZlMTY1Mzc0MjgzMDkyNjdlOGEzY2I3ZGRmZGJhMDIxN2RlMWJkOTgwYg=="
+  }
+}
